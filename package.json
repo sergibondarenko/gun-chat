@@ -1,0 +1,24 @@
+{
+  "name": "gun-chat",
+  "version": "1.0.0",
+  "description": "A simple chat app which uses Gun DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergibondarenko/gun-chat.git"
+  },
+  "keywords": [],
+  "author": "Sergii Bondarenko <sergibondarenko@gmail.com> (https://github.com/sergibondarenko)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergibondarenko/gun-chat/issues"
+  },
+  "homepage": "https://github.com/sergibondarenko/gun-chat#readme",
+  "dependencies": {
+    "gun": "^0.8.5",
+    "jquery": "^3.2.1"
+  }
+}
